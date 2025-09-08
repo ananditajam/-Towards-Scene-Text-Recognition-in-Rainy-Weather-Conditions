@@ -65,3 +65,17 @@ We benchmarked multiple existing STR models on both datasets.
 --WER (Word Error Rate)
 --CER (Character Error Rate)
 --Precision, Recall, and F1-Score
+
+
+@InProceedings{Jamwal2025RainySTR,
+  author    = {Jamwal, Anandita},
+  title     = {Towards Scene Text Recognition in Rainy Weather Conditions},
+  booktitle = {Document Analysis and Recognition -- ICDAR 2025},
+  series    = {Lecture Notes in Computer Science},
+  volume    = {16027},
+  pages     = {xxx--yyy},
+  publisher = {Springer, Cham},
+  year      = {2025},
+  doi       = {10.1007/978-3-032-04629-1_19},
+  isbn      = {978-3-032-04629-1}
+}
