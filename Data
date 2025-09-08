@@ -1,0 +1,9 @@
+data/
+   ├── generated/
+   │    ├── train/
+   │    ├── val/
+   │    └── test/
+   └── real_rain/
+        ├── train/
+        ├── val/
+        └── test/
