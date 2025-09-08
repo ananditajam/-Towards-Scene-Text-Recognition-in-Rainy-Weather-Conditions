@@ -44,7 +44,7 @@ We benchmarked multiple existing STR models on both datasets.
 
 ## 📈 Evaluation Metrics
 - Evaluation metrics include **WER, CER, Precision, Recall, and F1-Score**.  
-- Notebook: `evaluation/metrics.ipynb`  
+- Notebook: `metrics.ipynb`  
 - Can be run directly in Google Colab.  
 
 ---
