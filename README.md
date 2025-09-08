@@ -14,9 +14,17 @@ This repository contains the datasets, code, fine-tuned models, and evaluation s
 ---
 
 ## 🌧️ Datasets
+🌧️ Datasets
+
 - **Generated Rainy Dataset** — created using our rain synthesis pipeline  
+  - [Train (Google Drive link)](https://drive.google.com/xxxx)  
+  - [Validation (Google Drive link)](https://drive.google.com/yyyy)  
+  - [Test (Google Drive link)](https://drive.google.com/zzzz)  
+
 - **Real Rainy Dataset** — collected from real driving scenarios  
-- Download links: [Google Drive link]() *(to be added)*  
+  - [Train (Google Drive link)](https://drive.google.com/aaaa)  
+  - [Validation (Google Drive link)](https://drive.google.com/bbbb)  
+  - [Test (Google Drive link)](https://drive.google.com/cccc)  
 
 ---
 
