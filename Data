@@ -1,9 +1,9 @@
 data/
-   ├── generated/
-   │    ├── train/
-   │    ├── val/
-   │    └── test/
-   └── real_rain/
-        ├── train/
-        ├── val/
-        └── test/
+ ├── generated/
+ │    ├── train/README.md
+ │    ├── val/README.md
+ │    └── test/README.md
+ └── real_rain/
+      ├── train/README.md
+      ├── val/README.md
+      └── test/README.md
