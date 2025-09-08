@@ -1,21 +1,11 @@
-# Datasets
-
-This project uses two main datasets:
-
-## 1. Generated Rainy Dataset
-- Created using our rain synthesis pipeline.
-- Splits: Train / Validation / Test
-- Download:
-  - [Train](https://drive.google.com/xxxx)
-  - [Val](https://drive.google.com/yyyy)
-  - [Test](https://drive.google.com/zzzz)
-
-## 2. Real Rainy Dataset
-- Collected from driving videos in real rainy conditions.
-- Splits: Train / Validation / Test
-- Download:
-  - [Train](https://drive.google.com/aaaa)
-  - [Val](https://drive.google.com/bbbb)
-  - [Test](https://drive.google.com/cccc)
+data/
+ ├── generated/
+ │    ├── train/README.md
+ │    ├── val/README.md
+ │    └── test/README.md
+ └── real_rain/
+      ├── train/README.md
+      ├── val/README.md
+      └── test/README.md
 
 
